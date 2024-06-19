@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/appnaTextutils/static/css/main.841c005e.css",
-    "main.js": "/appnaTextutils/static/js/main.4f312449.js",
-    "static/js/453.ed3810f9.chunk.js": "/appnaTextutils/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/appnaTextutils/index.html",
-    "main.841c005e.css.map": "/appnaTextutils/static/css/main.841c005e.css.map",
-    "main.4f312449.js.map": "/appnaTextutils/static/js/main.4f312449.js.map",
-    "453.ed3810f9.chunk.js.map": "/appnaTextutils/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/TextUttils/static/css/main.841c005e.css",
+    "main.js": "/TextUttils/static/js/main.9cf5efdb.js",
+    "static/js/453.ed3810f9.chunk.js": "/TextUttils/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/TextUttils/index.html",
+    "main.841c005e.css.map": "/TextUttils/static/css/main.841c005e.css.map",
+    "main.9cf5efdb.js.map": "/TextUttils/static/js/main.9cf5efdb.js.map",
+    "453.ed3810f9.chunk.js.map": "/TextUttils/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.841c005e.css",
-    "static/js/main.4f312449.js"
+    "static/js/main.9cf5efdb.js"
   ]
 }
